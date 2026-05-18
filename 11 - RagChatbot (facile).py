@@ -11,7 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 st.header("Assistenza online")
 
-st.image("REAL CHATBOT/Chatbot.webp", width=800)
+st.image("Chatbot.webp", width=800)
 
 with st.sidebar:
     st.title("Il mio documento")
